@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+numpy
+scipy
+librosa
+unidecode
+inflect
+pydub
+telebot
+python-dotenv
+matplotlib
